@@ -1,0 +1,27 @@
+{
+  "_comment": "Copy to config.json and edit. Every key is optional; see scripts/kobo_config.py for defaults.",
+  "data_dir": "~/kobo-articles",
+  "paper_title": "The Morning Paper",
+  "paper_tagline": "All the Reads Worth Your Time",
+  "max_age_days": 7,
+
+  "calibre_enabled": true,
+  "calibre_library": "/path/to/calibre/library",
+  "calibre_web_container": "calibre-web",
+  "calibre_web_app_db": "/path/to/calibre-web/config/app.db",
+  "kobo_user_id": 1,
+  "library_owner": "1000:1000",
+
+  "audiobookshelf_container": "",
+  "media_watch_file": "",
+  "media_requester": "me",
+  "seerr_url": "",
+  "seerr_settings": "",
+  "seerr_user": "",
+  "tiktok_collections": ["https://www.tiktok.com/@your-handle/collection/Name-0000000000000000000"],
+  "genres": ["fiction", "fantasy"],
+  "exclude_titles": [],
+  "exclude_requesters": [],
+  "kickstarter_enabled": false,
+  "lead_image_avoid_faces": true
+}
