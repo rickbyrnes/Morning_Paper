@@ -1,3 +1,4 @@
+# Copied from https://github.com/jstriblet/kobo-morning-paper the original github repo then edited 
 # kobo-morning-paper: a morning newspaper for your Kobo
 
 Every morning a fresh EPUB of about 10 articles appears on your Kobo. You tap sync. No cable, no app.
